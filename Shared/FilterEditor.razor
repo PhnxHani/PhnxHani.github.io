@@ -1,0 +1,27 @@
+@using LoadoutGenerator.Models
+<div class="filter-editor">
+    <h3>Perks</h3>
+
+    <div class="form-group">
+        <label>
+            <input type="checkbox" @bind="QuarterMaster" />
+            Quartermaster
+        </label>
+    </div>
+</div>
+
+@code{
+    [Parameter]
+    public Filters Filter { get; set; }
+
+    [Parameter]
+    public EventCallback<Filters> FilterChanged { get; set; }
+
+    private bool QuarterMaster{
+        get => Filter.MaxWeaponSlots == 5;
+        set {
+            Filter.MaxWeaponSlots = value ? 5 :4;
+            FilterChanged.InvokeAsync(Filter);
+        }
+    }
+}

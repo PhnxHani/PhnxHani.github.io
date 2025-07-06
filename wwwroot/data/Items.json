@@ -1,0 +1,1569 @@
+[
+    {
+        "Name": "1865 Carbine",
+        "Cost": 70,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "1865 Carbine Aperture",
+        "Cost": 74,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "1865 Carbine",
+        "Ammo": ["FMJ", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Aperture"]
+    },
+    {
+        "Name": "1865 Carbine Silencer",
+        "Cost": 74,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "1865 Carbine",
+        "Ammo": ["FMJ", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Silenced"]
+    },
+    {
+        "Name": "Auto-5",
+        "Cost": 600,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun"]
+    },
+        {
+        "Name": "Auto-4 Shorty",
+        "Cost": 300,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Auto-5",
+        "Ammo": ["Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun"]
+    },
+    {
+        "Name": "Baseball Bat",
+        "Cost": 40,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Berthier 1892",
+        "Cost": 330,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "SecondaryAmmo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Berthier 1892 Deadeye",
+        "Cost": 347,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Berthier 1892",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "SecondaryAmmo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Berthier 1892 Marksman",
+        "Cost": 363,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Berthier 1892",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "SecondaryAmmo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Berthier 1892 Riposte",
+        "Cost": 340,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Berthier 1892",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "SecondaryAmmo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Bomb Launcher",
+        "Cost": 110,
+        "Size": 2,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Harpoon", "Steel Ball", "Waxed Frag Charge"],
+        "SecondaryAmmo": ["Dragon Breath", "Harpoon", "Steel Ball", "Waxed Frag Charge"],
+        "Tags": ["Special Ammo"]
+    },
+    {
+        "Name": "Bomb Lance",
+        "Cost": 199,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Bomb Launcher",
+        "Ammo": ["Dragon Breath", "Harpoon", "Steel Ball", "Waxed Frag Charge"],
+        "SecondaryAmmo": ["Dragon Breath", "Harpoon", "Steel Ball", "Waxed Frag Charge"],
+        "Tags": ["Special Ammo", "Melee"]
+    },
+    {
+        "Name": "Bornheim No.3",
+        "Cost": 146,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Bornheim No.3 Extended",
+        "Cost": 203,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Bornheim No.3",
+        "Ammo": ["High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Bornheim No.3 Match",
+        "Cost": 280,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Bornheim No.3",
+        "Ammo": ["High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Bornheim No.3 Silencer",
+        "Cost": 167,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Bornheim No.3",
+        "Ammo": ["High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo", "Silenced"]
+    },
+    {
+        "Name": "Cavalry Saber",
+        "Cost": 50,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Centennial",
+        "Cost": 157,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Centennial Pointman",
+        "Cost": 114,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Centennial",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Centennial Shorty",
+        "Cost": 103,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Centennial",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Centennial Shorty Silencer",
+        "Cost": 118,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Centennial",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Silenced"]
+    },
+    {
+        "Name": "Centennial Sniper",
+        "Cost": 181,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Centennial",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "Centennial Trauma",
+        "Cost": 167,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Centennial",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Chu Ko Nu",
+        "Cost": 75,
+        "Size": 2,
+        "Category": "Weapon",
+        "Ammo": ["Explosive Bolt", "Incendiary Bolt"],
+        "Tags": ["Special Ammo"]
+    },
+    {
+        "Name": "Combat Axe",
+        "Cost": 40,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Conversion",
+        "Cost": 55,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Conversion Chain Pistol",
+        "Cost": 84,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Conversion",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Crossbow",
+        "Cost": 50,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Explosive Bolt", "Shot Bolt", "Steel Bolt"],
+        "Tags": ["Special Ammo"]
+    },
+    {
+        "Name": "Crossbow Deadeye",
+        "Cost": 53,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Crossbow",
+        "Ammo": ["Explosive Bolt", "Shot Bolt", "Steel Bolt"],
+        "Tags": ["Special Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Dolch 96",
+        "Cost": 690,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Special Ammo", "Pistol"]
+    },
+    {
+        "Name": "Dolch 96 Bullseye",
+        "Cost": 725,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Dolch 96",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Special Ammo", "Pistol", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Dolch 96 Claw",
+        "Cost": 700,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Dolch 96",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Special Ammo", "Pistol", "Melee"]
+    },
+    {
+        "Name": "Dolch 96 Precision",
+        "Cost": 730,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Special Ammo", "Pistol"]
+    },
+    {
+        "Name": "Drilling",
+        "Cost": 510,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity"],
+        "SecondaryAmmo": ["Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Rifle", "Medium Ammo", "Shell"]
+    },
+    {
+        "Name": "Drilling Hatchet",
+        "Cost": 340,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Drilling",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity"],
+        "SecondaryAmmo": ["Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Rifle", "Medium Ammo", "Shell", "Melee"]
+    },
+    {
+        "Name": "Drilling Shorty",
+        "Cost": 330,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Drilling",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity"],
+        "SecondaryAmmo": ["Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Rifle", "Medium Ammo", "Shell"]
+    },
+    {
+        "Name": "Frontier 73C",
+        "Cost": 41,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Frontier 73C Marksman",
+        "Cost": 45,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Frontier 73C",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Frontier 73C Silencer",
+        "Cost": 47,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Frontier 73C",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Silenced"]
+    },
+    {
+        "Name": "Hand Crossbow",
+        "Cost": 30,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Chaos Bolt", "Choke Bolt", "Dragon Bolt", "Poison Bolt"],
+        "Tags": ["Special Ammo"]
+    },
+    {
+        "Name": "Haymaker",
+        "Cost": 279,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "LeMat",
+        "Ammo": ["FMJ", "Poison"],
+        "SecondaryAmmo": ["Dragon Breath", "Slug", "Starshell"],
+        "Tags": ["Pistol", "Long Ammo", "Shell"]
+    },
+    {
+        "Name": "Hunting Bow",
+        "Cost": 57,
+        "Size": 2,
+        "Category": "Weapon",
+        "Ammo": ["Concertina Arrow", "Frag Arrow", "poison Arrow"],
+        "Tags": ["Special Ammo"]
+    },
+    {
+        "Name": "Infantry 73L",
+        "Cost": 78,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Infantry 73L Bayonet",
+        "Cost": 88,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Infantry 73L",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Melee"]
+    },
+    {
+        "Name": "Infantry 73L Sniper",
+        "Cost": 90,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Infantry 73L",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "Katana",
+        "Cost": 115,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Krag",
+        "Cost": 450,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Krag Bayonet",
+        "Cost": 460,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Krag",
+        "Ammo": ["FMJ", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Krag Silencer",
+        "Cost": 517,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Krag",
+        "Ammo": ["FMJ", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Long Ammo", "Silenced"]
+    },
+    {
+        "Name": "Krag Sniper",
+        "Cost": 517,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Krag",
+        "Ammo": ["FMJ", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "LeMat",
+        "Cost": 83,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "Incendiary"],
+        "SecondaryAmmo": ["Dragon Breath", "Slug", "Starshell"],
+        "Tags": ["Pistol", "Small Ammo", "Shell"]
+    },
+    {
+        "Name": "LeMat Carbine",
+        "Cost": 115,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "LeMat",
+        "Ammo": ["FMJ", "Incendiary"],
+        "SecondaryAmmo": ["Dragon Breath", "Slug", "Starshell"],
+        "Tags": ["Pistol", "Small Ammo", "Shell"]
+    },
+    {
+        "Name": "LeMat Carbine Marksman",
+        "Cost": 127,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "LeMat",
+        "Ammo": ["FMJ", "Incendiary"],
+        "SecondaryAmmo": ["Dragon Breath", "Slug", "Starshell"],
+        "Tags": ["Pistol", "Small Ammo", "Shell", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Lebel 1886",
+        "Cost": 397,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Lebel 1886 Aperture",
+        "Cost": 417,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Lebel 1886",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Aperture"]
+    },
+    {
+        "Name": "Lebel 1886 Marksman",
+        "Cost": 437,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Lebel 1886",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Lebel 1886 Talon",
+        "Cost": 407,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Lebel 1886",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Machete",
+        "Cost": 30,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Mako 1895",
+        "Cost": 360,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Explosive", "FMJ"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mako 1895 Aperture",
+        "Cost": 378,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mako 1895",
+        "Ammo": ["Explosive", "FMJ"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Aperture"]
+    },
+    {
+        "Name": "Mako 1895 Claw",
+        "Cost": 370,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mako 1895",
+        "Ammo": ["Explosive", "FMJ"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Marathon",
+        "Cost": 68,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Marathon Swift",
+        "Cost": 95,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Marathon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Martini-Henry",
+        "Cost": 122,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "SecondaryAmmo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Martini-Henry Deadeye",
+        "Cost": 128,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Martini-Henry",
+        "Ammo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "SecondaryAmmo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Martini-Henry Ironside",
+        "Cost": 159,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Martini-Henry",
+        "Ammo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "SecondaryAmmo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Martini-Henry Marksman",
+        "Cost": 134,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Martini-Henry",
+        "Ammo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "SecondaryAmmo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Martini-Henry Riposte",
+        "Cost": 132,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Martini-Henry",
+        "Ammo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "SecondaryAmmo": ["Explosive", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Maynard Sniper",
+        "Cost": 139,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "High Velocity", "Subsonic"],
+        "SecondaryAmmo": ["Dumdum", "High Velocity", "Subsonic"],
+        "Tags": ["Rifle", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "Maynard Sniper Silencer",
+        "Cost": 159,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Maynard Sniper",
+        "Ammo": ["Dumdum", "High Velocity", "Subsonic"],
+        "SecondaryAmmo": ["Dumdum", "High Velocity", "Subsonic"],
+        "Tags": ["Rifle", "Scoped", "Sniper", "Silenced"]
+    },
+    {
+        "Name": "Mosin Obrez",
+        "Cost": 290,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mosin Obrez Extended",
+        "Cost": 350,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mosin Obrez Mace",
+        "Cost": 300,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Mosin Obrez Match",
+        "Cost": 345,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mosin Obrez Sharpeye",
+        "Cost": 362,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Mosin-Nagant",
+        "Cost": 620,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mosin-Nagant Avtomat",
+        "Cost": 1250,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Mosin-Nagant Bayonet",
+        "Cost": 630,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Melee"]
+    },
+    {
+        "Name": "Mosin-Nagant Sniper",
+        "Cost": 713,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Mosin-Nagant",
+        "Ammo": ["Incendiary", "Spitzer"],
+        "Tags": ["Rifle", "Long Ammo", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "Nagant M1895",
+        "Cost": 24,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Nagant M1895 Deadeye",
+        "Cost": 30,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Nagant M1895",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Nagant M1895 Precision",
+        "Cost": 29,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Nagant M1895",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Nagant M1895 Silencer",
+        "Cost": 27,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Nagant M1895",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo", "Silenced"]
+    },
+    {
+        "Name": "New Army",
+        "Cost": 90,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "New Army Swift",
+        "Cost": 108,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "New Army",
+        "Ammo": ["Dumdum", "FMJ"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Nitro Express",
+        "Cost": 1015,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Explosive", "Shredder"],
+        "Tags": ["Rifle", "Special Ammo"]
+    },
+    {
+        "Name": "Officer",
+        "Cost": 95,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Officer Brawler",
+        "Cost": 106,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Officer",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo", "Melee"]
+    },
+    {
+        "Name": "Officer Carbine",
+        "Cost": 183,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Officer",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo"]
+    },
+    {
+        "Name": "Officer Carbine Deadeye",
+        "Cost": 192,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Officer",
+        "Ammo": ["Dumdum", "High Velocity", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Small Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Pax",
+        "Cost": 80,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary", "Poison"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Pax Claw",
+        "Cost": 90,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Pax",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary", "Poison"],
+        "Tags": ["Pistol", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Pax Trueshot",
+        "Cost": 141,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Pax",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary", "Poison"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Railroad Hammer",
+        "Cost": 45,
+        "Size": 1,
+        "Category": "Weapon",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Ranger 73",
+        "Cost": 75,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Ranger 73 Aperture",
+        "Cost": 79,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Ranger 73",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Scoped", "Aperture"]
+    },
+    {
+        "Name": "Ranger 73 Swift",
+        "Cost": 128,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Ranger 73",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Ranger 73 Talon",
+        "Cost": 85,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Ranger 73",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Melee"]
+    },
+    {
+        "Name": "Rival 78",
+        "Cost": 150,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Rival 78 Mace",
+        "Cost": 135,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Rival 78",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Rival 78 Shorty",
+        "Cost": 125,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Rival 78",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Rival 78 Trauma",
+        "Cost": 160,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Romero 77",
+        "Cost": 66,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "SecondaryAmmo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Romero 77 Alamo",
+        "Cost": 98,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Romero 77",
+        "Ammo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "SecondaryAmmo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Romero 77 hatchet",
+        "Cost": 56,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Romero 77",
+        "Ammo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "SecondaryAmmo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Romero 77 Shorty",
+        "Cost": 46,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Romero 77",
+        "Ammo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "SecondaryAmmo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Romero 77 Talon",
+        "Cost": 76,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Romero 77",
+        "Ammo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "SecondaryAmmo": ["Dragon Breath", "Penny Shot", "Slug", "Starshell"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Scottfield",
+        "Cost": 77,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Scottfield Brawler",
+        "Cost": 87,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Scottfield",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Pistol", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Scottfield Precision",
+        "Cost": 85,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Scottfield",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Scottfield Spitfire",
+        "Cost": 108,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Scottfield",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Scottfield Swift",
+        "Cost": 95,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Scottfield",
+        "Ammo": ["Dumdum", "FMJ", "High Velocity", "Incendiary"],
+        "Tags": ["Pistol", "Medium Ammo"]
+    },
+    {
+        "Name": "Slate",
+        "Cost": 333,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Slate Riposte",
+        "Cost": 343,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Slate",
+        "Ammo": ["Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Sparks",
+        "Cost": 130,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "SecondaryAmmo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Long Ammo"]
+    },
+    {
+        "Name": "Sparks Pistol",
+        "Cost": 155,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Sparks",
+        "Ammo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "SecondaryAmmo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Long Ammo"]
+    },
+    {
+        "Name": "Sparks Pistol Silencer",
+        "Cost": 178,
+        "Size": 1,
+        "Category": "Weapon",
+        "Variant": "Sparks",
+        "Ammo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "SecondaryAmmo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Long Ammo", "Silenced"]
+    },
+    {
+        "Name": "Sparks Silencer",
+        "Cost": 149,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Sparks",
+        "Ammo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "SecondaryAmmo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Long Ammo", "Silenced"]
+    },
+    {
+        "Name": "Sparks Sniper",
+        "Cost": 150,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Sparks",
+        "Ammo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "SecondaryAmmo": ["FMJ", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Pistol", "Long Ammo", "Scoped", "Sniper"]
+    },
+    {
+        "Name": "Specter 1882",
+        "Cost": 188,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Specter 1882 Bayonet",
+        "Cost": 198,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Specter 1882",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell", "Melee"]
+    },
+    {
+        "Name": "Specter 1882 Shorty",
+        "Cost": 164,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Specter 1882",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Springfield 1866",
+        "Cost": 38,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Springfield 1866 Bayonet",
+        "Cost": 48,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Springfield 1866",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Springfield 1866 Bullseye",
+        "Cost": 35,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Springfield 1866",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Springfield 1866 Marksman",
+        "Cost": 42,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Springfield 1866",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Springfield 1866 Shorty",
+        "Cost": 33,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Springfield 1866",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Springfield 1866 Striker",
+        "Cost": 43,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Springfield 1866",
+        "Ammo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "SecondaryAmmo": ["Dumdum", "Explosive", "High Velocity", "Poison"],
+        "Tags": ["Rifle", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Terminus",
+        "Cost": 238,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Terminus Shorty",
+        "Cost": 218,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Terminus",
+        "Ammo": ["Dragon Breath", "Flechette", "Penny Shot", "Slug"],
+        "Tags": ["Shotgun", "Shell"]
+    },
+    {
+        "Name": "Uppercut",
+        "Cost": 310,
+        "Size": 1,
+        "Category": "Weapon",
+        "Ammo": ["Explosive", "FMJ", "Incendiary"],
+        "Tags": ["Pistol", "Long Ammo"]
+    },
+    {
+        "Name": "Uppercut Deadeye",
+        "Cost": 337,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Uppercut",
+        "Ammo": ["Explosive", "FMJ", "Incendiary"],
+        "Tags": ["Pistol", "Long Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Uppercut Precision",
+        "Cost": 321,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Uppercut",
+        "Ammo": ["Explosive", "FMJ", "Incendiary"],
+        "Tags": ["Pistol", "Long Ammo"]
+    },
+    {
+        "Name": "Vandal 73C",
+        "Cost": 35,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Frontier 73C",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo"]
+    },
+    {
+        "Name": "Vandal 73C Bullseye",
+        "Cost": 37,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Frontier 73C",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Vandal 73C Striker",
+        "Cost": 45,
+        "Size": 2,
+        "Category": "Weapon",
+        "Variant": "Frontier 73C",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Poison", "Subsonic"],
+        "Tags": ["Rifle", "Small Ammo", "Melee"]
+    },
+    {
+        "Name": "Vetterli 71",
+        "Cost": 105,
+        "Size": 3,
+        "Category": "Weapon",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Vetterli 71 Bayonet",
+        "Cost": 115,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Vetterli 71",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Melee"]
+    },
+    {
+        "Name": "Vetterli 71 Cyclone",
+        "Cost": 280,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Vetterli 71",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo"]
+    },
+    {
+        "Name": "Vetterli 71 Deadeye",
+        "Cost": 110,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Vetterli 71",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Deadeye"]
+    },
+    {
+        "Name": "Vetterli 71 Marksman",
+        "Cost": 116,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Vetterli 71",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Scoped", "Marksman"]
+    },
+    {
+        "Name": "Vetterli 71 Silencer",
+        "Cost": 120,
+        "Size": 3,
+        "Category": "Weapon",
+        "Variant": "Vetterli 71",
+        "Ammo": ["FMJ", "High Velocity", "Incendiary", "Subsonic"],
+        "Tags": ["Rifle", "Medium Ammo", "Silenced"]
+    },
+    {
+        "Name": "Alert Trip Mines",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Trap"]
+    },
+    {
+        "Name": "Bear Traps",
+        "Cost": 70,
+        "Category": "Tool",
+        "Tags": ["Trap"]
+    },
+    {
+        "Name": "Blank Fire Decoys",
+        "Cost": 45,
+        "Category": "Tool",
+        "Tags": ["Decoy"]
+    },
+    {
+        "Name": "Choke Bombs",
+        "Cost": 25,
+        "Category": "Tool",
+        "Tags": ["Choke"]
+    },
+    {
+        "Name": "Concertina Trip Mines",
+        "Cost": 90,
+        "Category": "Tool",
+        "Tags": ["Trap"]
+    },
+    {
+        "Name": "Decoy Fuses",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Decoy"]
+    },
+    {
+        "Name": "Decoys",
+        "Cost": 6,
+        "Category": "Tool",
+        "Tags": ["Decoy"]
+    },
+    {
+        "Name": "Derringer Pennyshot",
+        "Cost": 63,
+        "Category": "Tool",
+        "Tags": ["Firearm"]
+    },
+    {
+        "Name": "Dusters",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "First Aid Kit",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Healing"]
+    },
+    {
+        "Name": "Flare Pistol",
+        "Cost": 36,
+        "Category": "Tool",
+        "Tags": ["Burn"]
+    },
+    {
+        "Name": "Fuses",
+        "Cost": 10,
+        "Category": "Tool",
+        "Tags": ["Burn"]
+    },
+    {
+        "Name": "Heavy Knife",
+        "Cost": 20,
+        "Category": "Tool",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Knife",
+        "Cost": 40,
+        "Category": "Tool",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Knuckle Knife",
+        "Cost": 50,
+        "Category": "Tool",
+        "Tags": ["Melee"]
+    },
+    {
+        "Name": "Poison Trip Mines",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Trap"]
+    },
+    {
+        "Name": "Quad Derringer",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Firearm"]
+    },
+    {
+        "Name": "Spyglass",
+        "Cost": 8,
+        "Category": "Tool",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Throwing Axes",
+        "Cost": 50,
+        "Category": "Tool",
+        "Tags": ["Melee", "Throwable"]
+    },
+    {
+        "Name": "Throwing Knifes",
+        "Cost": 30,
+        "Category": "Tool",
+        "Tags": ["Melee", "Throwable"]
+    },
+    {
+        "Name": "Throwing Spear",
+        "Cost": 80,
+        "Category": "Tool",
+        "Tags": ["Melee", "Throwable"]
+    },
+    {
+        "Name": "Ammo Box",
+        "Cost": 65,
+        "Category": "Consumable",
+        "Tags": ["Deployable", "Utility"]
+    },
+    {
+        "Name": "Antidote Shot",
+        "Cost": 55,
+        "Category": "Consumable",
+        "Tags": ["Syringe", "Utility"]
+    },
+    {
+        "Name": "Antidote Shot (Weak)",
+        "Cost": 30,
+        "Category": "Consumable",
+        "Tags": ["Syringe", "Utility"]
+    },
+    {
+        "Name": "Big Dynamite Bundle",
+        "Cost": 110,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    },
+    {
+        "Name": "Chaos Bomb",
+        "Cost": 15,
+        "Category": "Consumable",
+        "Tags": ["Decoy"]
+    },
+    {
+        "Name": "Choke Beetle",
+        "Cost": 22,
+        "Category": "Consumable",
+        "Tags": ["Choke", "Beetle"]
+    },
+    {
+        "Name": "Concertina Bomb",
+        "Cost": 48,
+        "Category": "Consumable",
+        "Tags": ["Throwable"]
+    },
+    {
+        "Name": "Dark Dynamite Satchel",
+        "Cost": 100,
+        "Category": "Consumable",
+        "Tags": ["Explosive", "Trap"]
+    },
+    {
+        "Name": "Dynamite Bundle",
+        "Cost": 75,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    },
+    {
+        "Name": "Dynamite Stick",
+        "Cost": 18,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    },
+    {
+        "Name": "Fire Beetle",
+        "Cost": 57,
+        "Category": "Consumable",
+        "Tags": ["Burn", "Beetle"]
+    },
+    {
+        "Name": "Fire Bomb",
+        "Cost": 30,
+        "Category": "Consumable",
+        "Tags": ["Burn"]
+    },
+    {
+        "Name": "Flash Bomb",
+        "Cost": 25,
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Frag Bomb",
+        "Cost": 103,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    },
+    {
+        "Name": "Hellfire Bomb",
+        "Cost": 70,
+        "Category": "Consumable",
+        "Tags": ["Burn"]
+    },
+    {
+        "Name": "Hive Bomb",
+        "Cost": "40",
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Liquid Fire Bomb",
+        "Cost": 35,
+        "Category": "Consumable",
+        "Tags": ["Burn"]
+    },
+    {
+        "Name": "Medical Pack",
+        "Cost": 35,
+        "Category": "Consumable",
+        "Tags": ["Healing", "Deployable"]
+    },
+    {
+        "Name": "Poison Bomb",
+        "Cost": 25,
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Recovery Shot",
+        "Cost": 140,
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Regeneration Shot",
+        "Cost": 105,
+        "Category": "Consumable",
+        "Tags": ["Healing"]
+    },
+    {
+        "Name": "Regeneration Shot (Weak)",
+        "Cost": 40,
+        "Category": "Consumable",
+        "Tags": ["Healing"]
+    },
+    {
+        "Name": "Stalker Beetle",
+        "Cost": 45,
+        "Category": "Consumable",
+        "Tags": ["Beetle"]
+    },
+    {
+        "Name": "Stamina Shot",
+        "Cost": 100,
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Stamina Shot (Weak)",
+        "Cost": 60,
+        "Category": "Consumable",
+        "Tags": ["Utility"]
+    },
+    {
+        "Name": "Sticky Bomb",
+        "Cost": 64,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    },
+    {
+        "Name": "Tool Box",
+        "Cost": 70,
+        "Category":"Consumable",
+        "Tags": ["Deployable", "Utility"]
+    },
+    {
+        "Name": "Vitality Shot",
+        "Cost": 85,
+        "Category": "Consumable",
+        "Tags": ["Healing"]
+    },
+    {
+        "Name": "Vitality Shot (Weak)",
+        "Cost": 20,
+        "Category": "Consumable",
+        "Tags": ["Healing"]
+    },
+    {
+        "Name": "Waxed Dynamite Stick",
+        "Cost": 24,
+        "Category": "Consumable",
+        "Tags": ["Explosive"]
+    }
+]

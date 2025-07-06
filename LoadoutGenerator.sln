@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadoutGenerator", "LoadoutGenerator.csproj", "{09DF880A-E2FC-3CD0-6CF1-43E5103E42CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DF880A-E2FC-3CD0-6CF1-43E5103E42CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DF880A-E2FC-3CD0-6CF1-43E5103E42CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DF880A-E2FC-3CD0-6CF1-43E5103E42CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DF880A-E2FC-3CD0-6CF1-43E5103E42CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F80CB6F-8FFD-4B77-B5AE-45EE1A19B4E8}
+	EndGlobalSection
+EndGlobal

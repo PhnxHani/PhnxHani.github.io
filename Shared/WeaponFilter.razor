@@ -1,0 +1,42 @@
+@using LoadoutGenerator.Models
+@using System.Text.Json
+
+<div class=" weapon-filters">
+    <h3>Weapon Filter:</h3>
+    <p>!!!Habe ich erstmal nur zum testen meines Filter-systems eingebaut. Wird warscheinlich nicht so drinne bleiben!!!</p>
+
+    @foreach (var weaponTag in AllWeaponTags){
+        <label class="filter-option">
+            <input type="checkbox"
+                checked=@(!Filter.ExcludedWeapons.Contains(weaponTag))
+                @onchange="@(e => ToggleWeapons(weaponTag, e.Value))" />
+            @weaponTag
+        </label>
+    }    
+</div>
+
+@code{
+    [Parameter]
+    public Filters Filter { get; set; }
+    [Parameter]
+    public EventCallback<Filters> FilterChanged { get; set; }
+    [Parameter]
+    public List<String> AllWeaponTags { get; set; }
+
+    private async Task ToggleWeapons(string weaponTag, object isChecked)
+    {
+        if (!(bool)(isChecked ?? false))
+        {
+            if (!Filter.ExcludedWeapons.Contains(weaponTag))
+                Filter.ExcludedWeapons.Add(weaponTag);
+        }
+        else
+        {
+            Filter.ExcludedWeapons.Remove(weaponTag);
+        }
+
+        await FilterChanged.InvokeAsync(Filter);
+        //  Debug
+        //Console.WriteLine($"Updated Filters: {JsonSerializer.Serialize(Filter)}");
+    }
+}
