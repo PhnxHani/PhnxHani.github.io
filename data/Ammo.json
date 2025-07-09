@@ -1,0 +1,161 @@
+[
+    {
+        "Name": "Small Ammo"
+    },
+    {
+        "Name": "Small DumDum"
+    },
+    {
+        "Name": "Small FMJ"
+    },
+    {
+        "Name": "Small DumDum"
+    },
+    {
+        "Name": "Small Incendiary"
+    },
+    {
+        "Name": "Small High Velocity"
+    },
+    {
+        "Name": "Small Subsonic"
+    },
+    {
+        "Name": "Small Poison"
+    },
+    {
+        "Name": "Medium Ammo"
+    },
+    {
+        "Name": "Medium DumDum"
+    },
+    {
+        "Name": "Medium Explosive"
+    },
+    {
+        "Name": "Medium FMJ"
+    },
+    {
+        "Name": "Medium DumDum"
+    },
+    {
+        "Name": "Medium Incendiary"
+    },
+    {
+        "Name": "Medium High Velocity"
+    },
+    {
+        "Name": "Medium Subsonic"
+    },
+    {
+        "Name": "Medium Poison"
+    },
+    {
+        "Name": "Long Ammo"
+    },
+    {
+        "Name": "Long DumDum"
+    },
+    {
+        "Name": "Long FMJ"
+    },
+    {
+        "Name": "Long DumDum"
+    },
+    {
+        "Name": "Long Explosive"
+    },
+    {
+        "Name": "Long Incendiary"
+    },
+    {
+        "Name": "Long High Velocity"
+    },
+    {
+        "Name": "Long Subsonic"
+    },
+    {
+        "Name": "Long Poison"
+    },
+    {
+        "Name": "Spitzer"
+    },
+    {
+        "Name": "Shell"
+    },
+    {
+        "Name": "Flechette"
+    },
+    {
+        "Name": "Penny Shot"
+    },
+    {
+        "Name": "Slug"
+    },
+    {
+        "Name": "Launcher Explosive"
+    },
+    {
+        "Name": "Launcher Dragon Breath"
+    },
+    {
+        "Name": "Launcher Harpoon"
+    },
+    {
+        "Name": "Launcher Steel Ball"
+    },
+    {
+        "Name": "Launcher Frag Charge"
+    },
+    {
+        "Name": "Bolt"
+    },
+    {
+        "Name": "Explosive Bolt"
+    },
+    {
+        "Name": "Incendiary Bolt"
+    },
+    {
+        "Name": "Shot Bolt"
+    },
+    {
+        "Name": "Steel Bolt"
+    },
+    {
+        "Name": "Compact Bolt"
+    },
+    {
+        "Name": "Chaos Bolt"
+    },
+    {
+        "Name": "Choke Bolt"
+    },
+    {
+        "Name": "Dragon Bolt"
+    },
+    {
+        "Name": "Poison Bolt"
+    },
+    {
+        "Name": "Arrow"
+    },
+    {
+        "Name": "Concertina Arrow"
+    },
+    {
+        "Name": "Frag Arrow"
+    },
+    {
+        "Name": "Poison Arrow"
+    },
+    {
+        "Name": "Nitro Ammo"
+    },
+    {
+        "Name": "Nitro Explosive"
+    },
+    {
+        "Name": "Nitro Shredder"
+    }
+]
