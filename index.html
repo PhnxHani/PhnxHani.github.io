@@ -29,4 +29,19 @@
     <script src="_framework/blazor.webassembly.js"></script>
 </body>
 
+<script>
+    // Handle initial load with hash
+    (function() {
+        if (window.location.hash) {
+            var hash = window.location.hash.substring(1);
+            if (hash.startsWith('/')) {
+                // Already formatted correctly
+                return;
+            }
+            // Convert old format to new format
+            window.history.replaceState({}, '', '/Phnxhani.github.io/#' + hash);
+        }
+    })();
+</script>
+
 </html>
