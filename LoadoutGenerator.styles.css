@@ -160,6 +160,47 @@ main[b-696hw8cj22] {
         overflow-y: auto;
     }
 }
+/* /Pages/CZNdeckbuilder.razor.rz.scp.css */
+/* wwwroot/css/site.css */
+.card-grid[b-t4w2oghqxs] {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 6px;
+}
+
+.compact-card[b-t4w2oghqxs] {
+    font-size: 0.7rem;
+    min-height: 120px;
+}
+
+.compact-card .card-header[b-t4w2oghqxs] {
+    padding: 0.25rem 0.4rem;
+}
+
+.compact-card .card-body[b-t4w2oghqxs] {
+    padding: 0.25rem 0.4rem;
+}
+
+.compact-card .card-footer[b-t4w2oghqxs] {
+    padding: 0.25rem 0.4rem;
+}
+
+.btn-xs[b-t4w2oghqxs] {
+    padding: 0.15rem 0.3rem;
+    font-size: 0.65rem;
+    line-height: 0.8;
+}
+
+/* Sehr kleine Dropdowns */
+.dropdown-menu.small[b-t4w2oghqxs] {
+    min-width: 100px;
+    font-size: 0.7rem;
+    padding: 0.2rem;
+}
+
+.dropdown-menu.small .dropdown-item[b-t4w2oghqxs] {
+    padding: 0.2rem 0.5rem;
+}
 /* /Pages/DeltaGreenCaseManagement.razor.rz.scp.css */
 .classified-container[b-clqfihf997] {
     min-height: 100vh;
